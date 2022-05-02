@@ -13,7 +13,7 @@ else()
 
 	FetchContent_Declare(retdec
 		GIT_REPOSITORY https://github.com/avast/retdec
-		GIT_TAG        a82f16e97b163afe789876e0a819489c5b9b358e
+		GIT_TAG        f9ac9ec7e8af77bc14944ce2650c9bbcc84f6368
 	)
 
 	FetchContent_GetProperties(retdec)
